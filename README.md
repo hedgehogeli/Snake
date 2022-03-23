@@ -1,4 +1,4 @@
 # Snake
 
-Making self playing Snake game, maybe using it as screen saver in final stages.
+Making self playing Snake game, maybe use as screen saver later.
 Exploring graph theory. 
